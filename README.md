@@ -70,6 +70,12 @@ For a live version, go [here](https://replit.com/@grandeurkoe/tin-dog?v=1) .
 
 This project was built using [Canva](https://www.canva.com/).
 
+This project was built to familiarize oneself with the following topics:
+- Color Theory
+- Typography and Fonts
+- User Experience Design
+- User Interface Design
+
 For a live version, go [here](https://www.canva.com/design/DAFv7iLyFEQ/JWuvgMKykhqIRV-YNGiUEg/view?website#4:home) .
 
 ![Ares Hotel](ares-hotel/ares-hotel.gif)
