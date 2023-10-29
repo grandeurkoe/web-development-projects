@@ -4,10 +4,10 @@ These web development projects are built in correspondence with " [100 Days of C
 
 Each project has been built from scratch with minimal to no assistance.<br/>
 
-### Day 001 - Band Name Generator
+### Day 041 - Movie Ranking
 
-This project generates a band name based on hometown and pet name. Get hometown and pet name as user input.
+This project showcases a webpage that displays my top 3 movies of all time.
 
-For a live version, go [here](https://replit.com/@grandeurkoe/band-name-generator?v=1) .
+For a live version, go [here](https://replit.com/@grandeurkoe/movie-ranking?v=1) .
 
-![Band Name Generator](band-name-generator/band-name-generator.gif)
+![Movie Ranking](movie-ranking/movie-ranking.png)
