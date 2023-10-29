@@ -43,3 +43,17 @@ This project was built to familiarize oneself with the following topics:
 For a live version, go [here](https://replit.com/@grandeurkoe/color-vocab?v=1) .
 
 ![Color Vocabulary](color-vocab/color-vocab.png)
+
+### Day 044 - Motivation Meme
+
+This project showcases a Motivation Meme webpage.
+
+This project was built to familiarize oneself with the following topics:
+- Content Division Element
+- CSS Colors
+- Font Properties
+- The Box Model
+
+For a live version, go [here](https://replit.com/@grandeurkoe/motivation-meme?v=1) .
+
+![Motivation Meme](motivation-meme/motivation-meme.png)
