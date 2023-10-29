@@ -65,3 +65,11 @@ This project showcases a Tin Dog (also known as "Tinder for Dogs") responsive we
 For a live version, go [here](https://replit.com/@grandeurkoe/tin-dog?v=1) .
 
 ![Tin Dog](tin-dog/tin-dog.gif)
+
+### Day 065 - Ares Hotel
+
+This project was built using [Canva](https://www.canva.com/).
+
+For a live version, go [here](https://www.canva.com/design/DAFv7iLyFEQ/JWuvgMKykhqIRV-YNGiUEg/view?website#4:home) .
+
+![Ares Hotel](ares-hotel/ares-hotel.gif)
