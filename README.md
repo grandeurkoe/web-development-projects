@@ -79,3 +79,28 @@ This project was built to familiarize oneself with the following topics:
 For a live version, go [here](https://www.canva.com/design/DAFv7iLyFEQ/JWuvgMKykhqIRV-YNGiUEg/view?website#4:home) .
 
 ![Ares Hotel](ares-hotel/ares-hotel.gif)
+
+## Getting Started
+
+### Prerequisites
+
+<b>For Windows:</b>
+<br/> 
+
+Download and Install the latest version of [Visual Studio Code](https://code.visualstudio.com/download).<br/>
+
+## Built With
+<p>
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-59287a?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img alt="Replit" src="https://img.shields.io/badge/-Replit-CD5C08?style=flat-square&logo=replit&logoColor=white" />
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-7E1DFB?style=flat-square&logo=obsidian&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-f34f29?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Github" src="https://img.shields.io/badge/-Github-14232c?style=flat-square&logo=github&logoColor=white" />
+</p>
+
+## Authors
+
+*Initial work* - [grandeurkoe](https://github.com/grandeurkoe)
