@@ -34,15 +34,12 @@ For a live version, go [here](https://replit.com/@grandeurkoe/birthday-invite?v=
 
 ### Day 043 - Color Vocabulary
 
-This project showcases a birthday invite webpage. 
+This project showcases a Color Vocubulary webpage. Learn color names in Spanish using the Color Vocabulary webpage.
 
-This project was built to familiarize oneself with the following topics: 
-- Anchor Element
-- HTML Boilerplate
-- Image Element
-- Nesting and Indentation
-- List Element
+This project was built to familiarize oneself with the following topics:
+- CSS Selectors
+- Inline, Internal and External CSS.
 
-For a live version, go [here](https://replit.com/@grandeurkoe/birthday-invite?v=1) .
+For a live version, go [here](https://replit.com/@grandeurkoe/color-vocab?v=1) .
 
 ![Color Vocabulary](color-vocab/color-vocab.png)
