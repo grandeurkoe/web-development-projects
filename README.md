@@ -89,7 +89,7 @@ For a live version, go [here](https://www.canva.com/design/DAFv7iLyFEQ/JWuvgMKyk
 
 Download and Install the latest version of [Visual Studio Code](https://code.visualstudio.com/download).<br/>
 
-## Built With
+## Built Using
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3&logoColor=white" />
